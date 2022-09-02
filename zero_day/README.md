@@ -29,7 +29,7 @@
       <!-- Store user timezone -->
       <script>
         Cookies.set('timezone', (new Date()).getTimezoneOffset() / -60.0);
-      </script>
+      </script>  
 
       <!-- intro.js for interactive onboarding -->
 
